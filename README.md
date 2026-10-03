@@ -1,5 +1,14 @@
 # Supermarket Sales and Customer Analysis 
 
+![Revenue by Product Line](revenue_by_product_line.png)
+*Food and Beverages leads revenue despite ranking second in units sold.*
+
+![Monthly Revenue](monthly_revenue.png)
+*Revenue dipped in February, then recovered in March.*
+
+![Average Spending by Gender](avg_spending_by_gender.png)
+*Female customers spend ~14% more per transaction than male customers(p = 0.0076).*
+
 
 ## Project Overview 
 
